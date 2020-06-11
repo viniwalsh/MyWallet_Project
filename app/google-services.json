@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "519301273377",
+    "firebase_url": "https://mywallet-4bab7.firebaseio.com",
+    "project_id": "mywallet-4bab7",
+    "storage_bucket": "mywallet-4bab7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519301273377:android:e0555dd610f9ea9d51d060",
+        "android_client_info": {
+          "package_name": "com.walshenterprise.mywallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519301273377-nakvqac525nsaok0bq8kbbr50dohii9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.walshenterprise.mywallet",
+            "certificate_hash": "eac6a93af8449506a4a8ac9fc0b68fad94c4fb2f"
+          }
+        },
+        {
+          "client_id": "519301273377-sss1ni39f20cchhapvu24kp4glio83f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiRMomwyVgOhZTNJyllFQ0F_txYyqu-ZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519301273377-sss1ni39f20cchhapvu24kp4glio83f8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
